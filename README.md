@@ -1,4 +1,4 @@
-PRIVATE RECOIL MODIFIER
+PRIVATE RECOIL MODIFIER -
 Humanized Recoil Control Cheat
 
 Our cheat is designed to mimic the natural movements of a real player, 
